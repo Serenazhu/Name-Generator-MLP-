@@ -1,0 +1,24 @@
+1. Num of Params: 3 Million (3268849)
+2. Last Training Loss: 1.37
+3. Averaged Validation Loss: 2.4
+20 samples from the model:
+sz
+s Spainzoio
+s Lionelalovan
+s rect
+sbel
+samy
+sash
+sPH
+spe
+sim
+sexly
+ske
+same
+saryiejellen
+solo|>nir>javie
+sesn
+samy
+sy
+sy
+sza
