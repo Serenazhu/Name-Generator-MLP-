@@ -2,7 +2,7 @@ import torch
 from torch.nn import functional as F
 import tiktoken
 import random
-# 3 million params(3268849)
+
 # Read the names file
 with open('names.txt', 'r') as f:
     t = f.read()
@@ -50,16 +50,12 @@ class NLP(torch.nn.Module):
         self.layer1 = torch.nn.Linear(embed_size*2, 32)
         self.bn1 = torch.nn.BatchNorm1d(32)
         self.layer2 = torch.nn.Linear(32, vocab_size)
-        self.dropout = torch.nn.Dropout(0.8)  # Example dropout rate of 50%
-
-        # Initialize weights properly
-        torch.nn.init.xavier_uniform_(self.layer1.weight)
-        torch.nn.init.xavier_uniform_(self.layer2.weight)
+        self.dropout = torch.nn.Dropout(0.8)  
 
     def forward(self, x):
         x = self.embd(x)
         x = x.view(x.size(0), -1)  # Flatten the embeddings
-        h1 = F.relu(self.bn1(self.layer1(x)))
+        h1 = F.gelu(self.bn1(self.layer1(x)))
         h2 = self.layer2(h1)
         return h2
 
@@ -71,9 +67,9 @@ Xte, Yte = create_ds(test_tokens)
 model = NLP(vocab_size).to(device)
 
 # Training parameters
-learning_rate = 0.01  # Reduced learning rate
+learning_rate = 1e-3  
 num_epochs = 40
-batch_size = 256  # Increased batch size
+batch_size = 64  # Increased batch size
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=1, gamma=0.8)
 # Training loop
@@ -89,10 +85,9 @@ for epoch in range(num_epochs):
 
         optimizer.zero_grad()
         loss.backward()
-
-        torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)  # Increased gradient clipping threshold
+        norm = torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)  # Gradient clipping (returns the gradients before they are clipped.) 
         optimizer.step()
-    print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {loss.item()}')
+    print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {loss.item()}, Norm:{norm:.4f}')
     scheduler.step()
     current_lr = scheduler.get_last_lr()[0]
     print('Learning Rate: {current_lr:.5f}')
@@ -141,6 +136,7 @@ for _ in range(20):
     print(name)
 print('---------------------------')
 val_loss = validation()
+print("Validation Loss: ")
 print(val_loss)
 n_params = sum(p.numel() for p in model.parameters())
 print(n_params)
