@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+  }
+  
+  body {
+    min-height: 100vh;
+    background: linear-gradient(
+      180deg,
+      #598392 0%,
+      #aec3b0 35%,
+      #eff6e0 100%
+    );
+    background-attachment: fixed;
+  }
+  .no-scroll {
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  
+  

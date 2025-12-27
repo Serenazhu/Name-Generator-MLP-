@@ -1,0 +1,443 @@
+Division Name,Dept,Course,Name,Meth,Succ.,Compl,A,B,C,IPP,D,F,INP,W,Total
+Behavioral  & Social Sciences,AHIS,AHIS-101,"Ahmadpour, Alireza",ONLIN,0.72,1.0,37,11,1,1,0,12,7,0,69
+Behavioral  & Social Sciences,AHIS,AHIS-101,"Potts, Gretchen",ONLIN,0.56,0.79,20,5,2,0,1,10,0,10,48
+Behavioral  & Social Sciences,AHIS,AHIS-101,"Robertson, Carolyn",ONLIN,0.86,0.94,19,12,0,0,1,2,0,2,36
+Behavioral  & Social Sciences,AHIS,AHIS-102A,"Meyer, Walter",ONLIN,0.44,0.94,17,4,3,0,5,22,0,3,54
+Behavioral  & Social Sciences,AHIS,AHIS-102A,"Russell, Elizabeth",ONLIN,0.89,0.95,27,2,5,0,1,1,0,2,38
+Behavioral  & Social Sciences,AHIS,AHIS-102AH,"Russell, Elizabeth",ONLIN,1.0,1.0,26,0,1,1,0,0,0,0,28
+Behavioral  & Social Sciences,AHIS,AHIS-102B,"Beckstead Whitney, Karen",ONLIN,0.65,0.92,27,17,2,0,1,18,0,6,71
+Behavioral  & Social Sciences,AHIS,ART-150,"Naumann, Sonya",ONLIN,0.88,0.94,13,2,0,0,0,1,0,1,17
+Behavioral  & Social Sciences,AHIS,ART-150,"Nelson, Mark",ONLIN,0.89,0.96,21,3,1,0,0,2,0,1,28
+Behavioral  & Social Sciences,AHIS,ART-150,"Schwenkmeyer, Karen",ONLIN,0.79,0.94,19,7,0,0,0,5,0,2,33
+Behavioral  & Social Sciences,ANTH,ANTH-1,"Desetto, Vincent",ONLIN,0.86,0.91,23,6,1,0,0,2,0,3,35
+Behavioral  & Social Sciences,ANTH,ANTH-1,"Vigil, Alberto",ONLIN,0.93,0.98,54,12,8,0,2,2,0,2,80
+Behavioral  & Social Sciences,ANTH,ANTH-1,"Wong, Billy",ONLIN,0.77,0.95,14,1,2,0,0,4,0,1,22
+Behavioral  & Social Sciences,ANTH,ANTH-11,"Otero, Rodolfo",ONLIN,0.69,0.9,6,10,4,0,1,4,1,3,29
+Behavioral  & Social Sciences,ANTH,ANTH-1H,"Waters, Marianne",ONLIN,0.93,0.96,21,4,1,0,0,1,0,1,28
+Behavioral  & Social Sciences,ANTH,ANTH-2,"Mannen, Angela",ONLIN,0.75,0.77,25,12,3,0,1,0,0,12,53
+Behavioral  & Social Sciences,ANTH,ANTH-3,"Olson, Kirsten",ONLIN,0.84,0.95,30,2,0,0,1,3,0,2,38
+Behavioral  & Social Sciences,ANTH,ANTH-5,"Waters, Marianne",ONLIN,0.91,0.91,17,3,1,0,0,0,0,2,23
+Behavioral  & Social Sciences,ANTH,ANTH-5,"Wong, Billy",ONLIN,0.9,1.0,10,4,5,0,0,2,0,0,21
+Behavioral  & Social Sciences,CDEV,CDEV-103,"Jefferis, Janice",ONLIN,0.7,0.95,40,9,8,0,3,17,0,4,81
+Behavioral  & Social Sciences,CDEV,CDEV-103,"Lopez-Arellano, Yadira",ONLIN,0.55,0.92,26,0,1,0,0,18,0,4,49
+Behavioral  & Social Sciences,CDEV,CDEV-103,"Marquez, Valerie",ONLIN,0.68,0.95,17,4,5,0,3,7,0,2,38
+Behavioral  & Social Sciences,CDEV,CDEV-103,"Tatsumi, Carol",HSDUL,1.0,1.0,16,2,1,0,0,0,0,0,19
+Behavioral  & Social Sciences,CDEV,CDEV-103,"Toyoda-Smart, Kumi",ONLIN,0.82,0.95,25,5,4,2,0,6,0,2,44
+Behavioral  & Social Sciences,CDEV,CDEV-104,"Marano, Mark",ONLIN,0.71,0.96,21,10,5,0,0,13,0,2,51
+Behavioral  & Social Sciences,CDEV,CDEV-108,"Marano, Mark",ONLIN,0.8,0.91,30,2,5,0,0,5,0,4,46
+Behavioral  & Social Sciences,CDEV,CDEV-112,"Wilson, Brittany",ONLIN,0.87,0.94,27,8,6,0,2,1,0,3,47
+Behavioral  & Social Sciences,CDEV,CDEV-114,"Baxter, Susan",ONLIN,0.66,0.73,16,11,2,0,0,3,0,12,44
+Behavioral  & Social Sciences,CDEV,CDEV-150,"Young, Janet",ONLIN,1.0,1.0,25,9,1,0,0,0,0,0,35
+Behavioral  & Social Sciences,COMS,COMS-100,"Alonso, Lizette",ONLIN,0.41,0.97,7,5,0,0,0,16,0,1,29
+Behavioral  & Social Sciences,COMS,COMS-100,"Anderson, Julia",HSDUL,0.6,0.95,3,7,2,0,2,5,0,1,20
+Behavioral  & Social Sciences,COMS,COMS-100,"Bishop, Francesca",ONLIN,0.64,0.79,17,1,0,0,2,2,0,6,28
+Behavioral  & Social Sciences,COMS,COMS-100,"Crossman, Diana",ONLIN,0.69,0.69,14,8,7,0,0,0,0,13,42
+Behavioral  & Social Sciences,COMS,COMS-100,"Crossman, Mark",ONLIN,0.84,0.95,38,8,1,0,2,4,0,3,56
+Behavioral  & Social Sciences,COMS,COMS-100,"Evans, Joseph",ONLIN,0.93,1.0,54,1,1,0,0,4,0,0,60
+Behavioral  & Social Sciences,COMS,COMS-100,"Janke, Kelly",ECC,0.92,1.0,10,8,4,0,0,2,0,0,24
+Behavioral  & Social Sciences,COMS,COMS-100,"Janke, Kelly",ONLIN,0.7,0.93,10,8,3,0,0,7,0,2,30
+Behavioral  & Social Sciences,COMS,COMS-100,"Ortega, Valerie",ECC,0.82,0.91,7,7,4,0,2,0,0,2,22
+Behavioral  & Social Sciences,COMS,COMS-100,"Peterson, Elyse",ONLIN,0.53,0.87,4,6,6,0,1,9,0,4,30
+Behavioral  & Social Sciences,COMS,COMS-100,"Sadeghi-Tabrizi, Fariba",HSDUL,0.91,0.97,22,5,3,0,2,0,0,1,33
+Behavioral  & Social Sciences,COMS,COMS-100,"Solomon, Chantel",ONLIN,0.67,0.96,5,8,3,0,3,4,0,1,24
+Behavioral  & Social Sciences,COMS,COMS-100,"Wagner, Helene",ONLIN,0.5,0.62,4,4,5,0,0,2,1,10,26
+Behavioral  & Social Sciences,COMS,COMS-100,"Wells, Rex",ECC,0.84,0.94,21,16,4,1,0,2,3,3,50
+Behavioral  & Social Sciences,COMS,COMS-120,"Hubble, Brittany",ECC,0.95,0.95,19,1,1,0,0,0,0,1,22
+Behavioral  & Social Sciences,COMS,COMS-130,"Davidson, Jason",ECC,0.91,1.0,29,12,1,0,1,2,1,0,46
+Behavioral  & Social Sciences,COMS,COMS-130,"Leach, Larry",ONLIN,0.97,0.98,40,16,4,0,0,1,0,1,62
+Behavioral  & Social Sciences,COMS,COMS-265,"Bishop, Francesca",ONLIN,0.4,0.67,10,8,6,0,0,16,0,20,60
+Behavioral  & Social Sciences,ECON,ECON-100,"Nebbia, Gerardo",HSDUL,0.97,0.98,61,17,8,0,0,1,0,2,89
+Behavioral  & Social Sciences,ECON,ECON-101,"Carter, Tanja",ONLIN,0.93,0.98,60,14,3,0,0,4,0,2,83
+Behavioral  & Social Sciences,ECON,ECON-101,"Fradkin, Michael",ONLIN,0.72,0.75,15,7,4,0,1,0,0,9,36
+Behavioral  & Social Sciences,ECON,ECON-101,"Inouye, Minehiro",ONLIN,0.57,0.77,15,17,10,0,7,8,0,17,74
+Behavioral  & Social Sciences,ECON,ECON-101,"Marschall, Brett",ONLIN,0.95,0.98,29,9,3,0,0,1,0,1,43
+Behavioral  & Social Sciences,ECON,ECON-102,"Keskinel, Meric",ONLIN,0.94,0.95,38,34,11,0,0,0,1,4,88
+Behavioral  & Social Sciences,ESTU,ESTU-1,"Arrieta, Jose",ONLIN,0.98,0.98,36,5,3,0,0,0,0,1,45
+Behavioral  & Social Sciences,ESTU,ESTU-1,"Bell-Blossom, Michelle",ONLIN,0.57,0.57,17,2,1,0,0,0,0,15,35
+Behavioral  & Social Sciences,ESTU,ESTU-1,"Herrera, Raul",ONLIN,0.91,0.92,49,12,6,0,0,1,0,6,74
+Behavioral  & Social Sciences,ESTU,ESTU-1,"Lopez, Nathan",ONLIN,0.6,0.72,20,12,7,0,2,6,0,18,65
+Behavioral  & Social Sciences,ESTU,ESTU-1,"Smith, Lawrence",ONLIN,0.96,1.0,36,7,1,0,1,1,0,0,46
+Behavioral  & Social Sciences,ESTU,ESTU-5,"Herrera, Xocoyotzin",EOC,1.0,1.0,10,0,0,0,0,0,0,0,10
+Behavioral  & Social Sciences,HDEV,HDEV-101,"Torres, Selene",ONLIN,0.53,0.93,6,2,0,0,0,6,0,1,15
+Behavioral  & Social Sciences,HDEV,HDEV-105,"Lozano, Wendy",ECC,0.82,0.88,9,5,0,0,0,1,0,2,17
+Behavioral  & Social Sciences,HDEV,HDEV-110,"Aguiar, Emmanuel",ECC,1.0,1.0,9,2,0,0,0,0,0,0,11
+Behavioral  & Social Sciences,HDEV,HDEV-110,"Leinen, Sarah",ONLIN,0.92,0.95,28,7,1,0,0,1,0,2,39
+Behavioral  & Social Sciences,HDEV,HDEV-110,"Nguyen, Hatien",ONLIN,0.79,0.87,27,11,4,0,0,4,0,7,53
+Behavioral  & Social Sciences,HDEV,HDEV-115,"Colbeck, Amanda",ONLIN,0.69,0.76,22,6,1,0,0,3,0,10,42
+Behavioral  & Social Sciences,HIST,HIST-101,"Herrera Thomas, Hong",ONLIN,0.88,0.94,70,6,3,0,0,6,0,5,90
+Behavioral  & Social Sciences,HIST,HIST-101,"Panski, Saul",ONLIN,0.9,0.93,44,10,1,0,0,2,0,4,61
+Behavioral  & Social Sciences,HIST,HIST-101,"Sankofa, Jub",ECC,0.89,1.0,25,3,2,1,2,2,0,0,35
+Behavioral  & Social Sciences,HIST,HIST-101,"Smith, Lawrence",ONLIN,0.83,0.95,26,8,0,0,0,5,0,2,41
+Behavioral  & Social Sciences,HIST,HIST-101,"Uribe, Sandra",ONLIN,0.35,0.51,16,5,3,0,1,10,0,33,68
+Behavioral  & Social Sciences,HIST,HIST-102,"Black, Dustin",HSDUL,1.0,1.0,35,6,1,0,0,0,0,0,42
+Behavioral  & Social Sciences,HIST,HIST-102,"Black, Dustin",ONLIN,0.89,0.91,30,5,4,0,0,1,0,4,44
+Behavioral  & Social Sciences,HIST,HIST-102,"Fraga, Michael",ONLIN,0.84,0.95,56,5,2,0,2,6,0,4,75
+Behavioral  & Social Sciences,HIST,HIST-102,"Jaaska, Arne",HSDUL,0.91,1.0,66,10,2,0,1,7,0,0,86
+Behavioral  & Social Sciences,HIST,HIST-102,"Melton, Jamahl",HSDUL,0.97,0.99,79,6,0,0,0,0,2,1,88
+Behavioral  & Social Sciences,HIST,HIST-102,"Rafi, Muhammad",ONLIN,0.93,1.0,26,10,3,0,1,2,0,0,42
+Behavioral  & Social Sciences,HIST,HIST-102,"Resnick, Kirsten",ONLIN,0.95,0.96,51,22,5,0,1,0,0,3,82
+Behavioral  & Social Sciences,HIST,HIST-102,"Sankofa, Jub",ECC,0.92,0.92,30,0,1,2,0,0,0,3,36
+Behavioral  & Social Sciences,HIST,HIST-102,"Swendson, Paul",ONLIN,0.93,0.98,32,34,8,0,1,3,0,2,80
+Behavioral  & Social Sciences,HIST,HIST-112,"De La O, Ismael",ONLIN,0.56,0.94,31,7,5,0,5,24,0,5,77
+Behavioral  & Social Sciences,HIST,HIST-122H,"Arrieta, Jose",HYBRD,0.86,1.0,19,4,1,0,0,4,0,0,28
+Behavioral  & Social Sciences,HIST,HIST-140,"Pacas, Edgar",ONLIN,0.4,1.0,7,1,2,0,4,11,0,0,25
+Behavioral  & Social Sciences,HIST,HIST-140,"Suarez, Jason",ONLIN,0.66,0.95,36,4,0,0,1,16,1,3,61
+Behavioral  & Social Sciences,HIST,HIST-141,"Pacas, Edgar",ONLIN,0.75,0.97,20,4,0,0,1,6,0,1,32
+Behavioral  & Social Sciences,HIST,HIST-141,"Rafi, Muhammad",HSDUL,1.0,1.0,35,3,3,0,0,0,0,0,41
+Behavioral  & Social Sciences,HIST,HIST-141,"Wishon, Mark",HSDUL,0.92,0.99,50,25,4,0,1,5,0,1,86
+Behavioral  & Social Sciences,HIST,HIST-154,"Herrera, Xocoyotzin",EOC,0.75,1.0,6,0,0,0,0,2,0,0,8
+Behavioral  & Social Sciences,PHIL,PHIL-101,"Critelli, Michael",ECC,0.94,0.94,6,6,3,0,0,0,0,1,16
+Behavioral  & Social Sciences,PHIL,PHIL-101,"Garcia, Roberto",ONLIN,0.85,0.98,13,16,6,0,1,4,0,1,41
+Behavioral  & Social Sciences,PHIL,PHIL-101,"Leon, Felipe",ONLIN,0.84,0.95,57,11,4,0,1,8,1,4,86
+Behavioral  & Social Sciences,PHIL,PHIL-103,"Garcia, Roberto",ONLIN,0.82,0.95,15,14,7,0,3,3,0,2,44
+Behavioral  & Social Sciences,PHIL,PHIL-105,"Ramirez, Melissa",ONLIN,1.0,1.0,21,4,1,0,0,0,0,0,26
+Behavioral  & Social Sciences,POLI,POLI-1,"Casper, Joshua",ONLIN,0.98,1.0,75,15,2,0,0,2,0,0,94
+Behavioral  & Social Sciences,POLI,POLI-1,"Chaney, Van",ONLIN,0.91,0.98,35,4,2,0,1,2,0,1,45
+Behavioral  & Social Sciences,POLI,POLI-1,"Coleman, Ellen",ONLIN,0.76,0.8,20,8,3,0,0,2,0,8,41
+Behavioral  & Social Sciences,POLI,POLI-1,"Cranon-Charles, Angela",ONLIN,0.66,0.93,34,7,5,0,0,19,0,5,70
+Behavioral  & Social Sciences,POLI,POLI-1,"Georges, Joseph",HSDUL,0.97,0.97,67,16,3,0,0,0,0,3,89
+Behavioral  & Social Sciences,POLI,POLI-1,"Houske, Laurie",ONLIN,0.71,0.82,30,18,15,0,0,9,1,16,89
+Behavioral  & Social Sciences,POLI,POLI-1,"Jun, Christine",ONLIN,0.84,1.0,22,6,7,1,3,4,0,0,43
+Behavioral  & Social Sciences,POLI,POLI-1,"Klein, Thomas",ONLIN,0.88,0.98,58,18,1,0,2,7,0,2,88
+Behavioral  & Social Sciences,POLI,POLI-1,"Munoz, Eduardo",ONLIN,0.67,0.95,24,17,2,0,0,18,0,3,64
+Behavioral  & Social Sciences,POLI,POLI-1,"Reed, David",ONLIN,0.8,0.93,19,7,6,0,1,4,0,3,40
+Behavioral  & Social Sciences,POLI,POLI-10H,"Striepe, Karl",ONLIN,0.94,0.97,25,5,0,0,0,1,0,1,32
+Behavioral  & Social Sciences,POLI,POLI-7,"Gonzales, Steven",ONLIN,0.8,1.0,28,2,2,0,1,7,0,0,40
+Behavioral  & Social Sciences,PSYC,PSYC-101,"Atkins, Sharona",ONLIN,0.64,0.82,7,5,2,0,1,3,0,4,22
+Behavioral  & Social Sciences,PSYC,PSYC-101,"Dooley, Kevin",ONLIN,0.84,0.93,33,4,0,0,0,4,0,3,44
+Behavioral  & Social Sciences,PSYC,PSYC-101,"Farah, Yara",HSDUL,0.63,0.81,4,5,1,0,1,2,0,3,16
+Behavioral  & Social Sciences,PSYC,PSYC-101,"Farah, Yara",ONLIN,0.77,0.98,21,8,4,0,1,8,0,1,43
+Behavioral  & Social Sciences,PSYC,PSYC-101,"Farias, Julio",ECC,0.85,1.0,14,12,3,0,1,4,0,0,34
+Behavioral  & Social Sciences,PSYC,PSYC-101,"Galvan, Eddie",ONLIN,0.69,0.94,11,12,2,0,4,5,0,2,36
+Behavioral  & Social Sciences,PSYC,PSYC-101,"Hall, Angel",ONLIN,0.76,1.0,19,6,6,0,4,6,0,0,41
+Behavioral  & Social Sciences,PSYC,PSYC-101,"Huemer, Sabine",ONLIN,0.5,1.0,19,12,5,0,2,34,0,0,72
+Behavioral  & Social Sciences,PSYC,PSYC-101,"Montes, Roberto",ONLIN,0.53,0.96,19,3,3,0,3,17,0,2,47
+Behavioral  & Social Sciences,PSYC,PSYC-101,"Moshrefi, Farshid",ONLIN,0.88,0.94,52,29,7,0,0,6,0,6,100
+Behavioral  & Social Sciences,PSYC,PSYC-101,"Stelter, Mary",ONLIN,0.98,1.0,52,1,1,0,0,1,0,0,55
+Behavioral  & Social Sciences,PSYC,PSYC-102,"Farias, Julio",ONLIN,0.33,0.98,4,2,10,0,0,31,0,1,48
+Behavioral  & Social Sciences,PSYC,PSYC-103,"Abdelhamid, Mohammed",ONLIN,0.91,1.0,9,8,4,0,0,2,0,0,23
+Behavioral  & Social Sciences,PSYC,PSYC-107,"Huft, Justin",ONLIN,0.74,0.86,37,17,13,0,5,5,0,13,90
+Behavioral  & Social Sciences,PSYC,PSYC-109A,"Atkins, Sharona",ONLIN,0.8,1.0,3,4,5,0,1,2,0,0,15
+Behavioral  & Social Sciences,PSYC,PSYC-109A,"Galvan, Eddie",ONLIN,0.57,0.87,3,6,4,0,1,6,0,3,23
+Behavioral  & Social Sciences,PSYC,PSYC-109B,"Chu, Yun",ONLIN,0.88,0.88,30,4,1,0,0,0,0,5,40
+Behavioral  & Social Sciences,PSYC,PSYC-115,"O'Leary, Bernadette",ONLIN,0.92,0.95,24,11,1,0,1,0,0,2,39
+Behavioral  & Social Sciences,PSYC,PSYC-116,"Conn, Bradfield",ONLIN,0.88,0.92,56,12,12,0,1,3,0,7,91
+Behavioral  & Social Sciences,PSYC,PSYC-116,"Huff, Micheal",ONLIN,0.92,0.95,44,16,17,0,0,3,0,4,84
+Behavioral  & Social Sciences,SOCI,SOCI-101,"Allen, Stacey",ONLIN,0.84,0.87,55,17,10,0,1,2,0,13,98
+Behavioral  & Social Sciences,SOCI,SOCI-101,"Eaves, Stephanie",ONLIN,0.84,0.99,66,10,7,0,4,10,1,1,99
+Behavioral  & Social Sciences,SOCI,SOCI-101,"Fujiwara, Melissa",ONLIN,0.94,0.95,71,13,7,0,0,1,0,5,97
+Behavioral  & Social Sciences,SOCI,SOCI-102,"Stone, Akello",ONLIN,0.83,0.9,26,6,3,0,0,3,0,4,42
+Behavioral  & Social Sciences,SOCI,SOCI-104,"Bell-Blossom, Michelle",ONLIN,0.59,0.78,10,4,2,0,1,4,0,6,27
+Behavioral  & Social Sciences,SOCI,SOCI-104,"Din, Mediha",ONLIN,0.29,0.47,5,3,2,0,3,3,0,18,34
+Behavioral  & Social Sciences,SOCI,SOCI-109A,"Aguilera, Peter",ONLIN,0.58,0.67,2,2,3,0,0,1,0,4,12
+Behavioral  & Social Sciences,SOCI,SOCI-112,"Aguilera, Peter",ONLIN,0.66,0.86,16,1,2,0,0,6,0,4,29
+Behavioral  & Social Sciences,SSCI,SSCI-103,"Rodriguez, Jessica",ONLIN,0.48,0.96,15,6,1,0,1,21,0,2,46
+Behavioral  & Social Sciences,WSTU,WSTU-1,"Baker, Allison",ONLIN,0.75,0.99,43,15,3,0,3,16,0,1,81
+Business,BUS,BUS-101,"Chau, Yuen",ONLIN,1.0,1.0,23,14,2,0,0,0,0,0,39
+Business,BUS,BUS-150,"Giles, Brizset",ONLIN,0.72,0.86,5,15,6,0,3,2,0,5,36
+Business,BUS,BUS-150,"Hull, Kurt",ONLIN,0.55,0.85,12,8,10,0,2,15,0,8,55
+Business,BUS,BUS-151,"Kim, Julie",ONLIN,0.98,0.98,22,14,7,0,0,0,0,1,44
+Business,BUS,BUS-151,"Porter, Sidney",ONLIN,0.73,0.95,7,13,7,0,5,3,0,2,37
+Business,CIS,CIS-13,"Anaya, Martin",ONLIN,0.55,0.79,14,4,5,0,3,7,0,9,42
+Business,CIS,CIS-13,"Lu, Khai",ONLIN,0.73,0.9,21,3,5,0,3,4,0,4,40
+Business,CIS,CIS-13,"Perkins, Richard",HYBRD,0.76,0.82,11,9,5,0,0,2,0,6,33
+Business,CIS,CIS-13,"Siddiqui, Junaid",HYBRD,0.73,0.95,9,15,6,2,2,4,4,2,44
+Business,RE,RE-11,"Yeressian, John",ONLIN,0.69,0.98,28,1,2,0,2,11,0,1,45
+Business,RE,RE-13,"Yeressian, John",ONLIN,0.56,0.98,25,0,0,0,6,13,0,1,45
+Business,RE,RE-26,"DeLuca, Vincent",ONLIN,0.5,0.64,5,6,10,0,0,6,0,15,42
+Fine Arts,ART,ART-110,"Bronte, Andrea",ONLIN,0.25,0.81,0,3,1,0,0,9,0,3,16
+Fine Arts,ART,ART-110,"Phelps, Jennifer",ONLIN,0.7,0.89,11,5,3,0,2,3,0,3,27
+Fine Arts,ART,ART-110,"Sheehan, Katherine",ONLIN,0.65,0.78,0,11,4,0,0,3,0,5,23
+Fine Arts,ART,ART-130,"Ewing, Richard",ONLIN,0.67,0.83,5,3,4,0,1,2,0,3,18
+Fine Arts,ART,ART-130,"Micallef, Andrea",ONLIN,0.42,0.79,6,1,1,0,0,7,0,4,19
+Fine Arts,ART,ART-141,"Curtis Urlik, Joy",ONLIN,0.83,0.83,14,5,0,0,0,0,0,4,23
+Fine Arts,ART,ART-141,"Zinoveva, Anna",ONLIN,0.75,0.83,19,4,3,1,0,2,1,6,36
+Fine Arts,DANC,DANC-101,"Adamis, Elizabeth",ONLIN,0.93,1.0,36,0,2,0,0,3,0,0,41
+Fine Arts,DANC,DANC-101,"Bryant, Jonathan",ONLIN,0.71,0.96,14,2,1,0,2,4,0,1,24
+Fine Arts,DANC,DANC-103,"Berney, Daniel",ONLIN,0.32,0.5,5,0,2,0,0,3,1,11,22
+Fine Arts,FILM,FILM-105,"Vafaeisefat, Elyusha",ONLIN,0.85,0.89,30,5,4,0,0,2,0,5,46
+Fine Arts,FILM,FILM-110,"Agan, Alicia",ONLIN,0.91,0.95,23,14,2,0,1,1,0,2,43
+Fine Arts,FILM,FILM-110,"Bogdanski, James",ONLIN,0.29,0.82,2,2,4,0,2,13,0,5,28
+Fine Arts,FILM,FILM-110,"Keller, Max",ONLIN,0.67,0.93,28,12,5,0,0,17,0,5,67
+Fine Arts,FILM,FILM-110,"Vafaeisefat, Elyusha",ECC,0.89,0.91,21,3,7,0,0,1,0,3,35
+Fine Arts,MUSI,MUSI-101,"Chambers-Salazar, Polli",ONLIN,0.64,0.7,18,3,0,0,1,1,0,10,33
+Fine Arts,MUSI,MUSI-111,"Doyle, William",ONLIN,0.86,0.97,18,7,5,0,1,3,0,1,35
+Fine Arts,MUSI,MUSI-111,"Schulz, Patrick",ONLIN,0.79,0.9,22,6,3,0,0,4,0,4,39
+Fine Arts,MUSI,MUSI-116,"Moyer, David",ONLIN,0.7,0.93,25,2,3,0,3,7,0,3,43
+Fine Arts,MUSI,MUSI-117,"Doyle, William",ONLIN,0.98,0.98,28,9,2,0,0,0,0,1,40
+Fine Arts,MUSI,MUSI-120,"Blickfeldt, Kevin",HYBRD,0.8,0.93,11,0,1,0,1,1,0,1,15
+Fine Arts,MUSI,MUSI-131A,"Chambers-Salazar, Polli",ONLIN,0.42,0.47,17,2,0,0,0,2,0,24,45
+Fine Arts,MUSI,MUSI-147A,"Minei, Ryota",ONLIN,0.87,0.87,10,1,16,0,0,0,0,4,31
+Fine Arts,MUSI,MUSI-181A,"Katznelson, Marci",ONLIN,0.8,0.93,7,1,4,0,0,2,0,1,15
+Fine Arts,MUSI,MUSI-220,"Blickfeldt, Kevin",HYBRD,0.33,0.67,1,0,0,0,0,1,0,1,3
+Fine Arts,PHOT,PHOT-101,"Trine, Evan",ONLIN,0.76,0.88,14,5,0,0,0,3,0,3,25
+Fine Arts,PHOT,PHOT-150,"Naumann, Sonya",ONLIN,1.0,1.0,12,3,0,0,0,0,0,0,15
+Fine Arts,PHOT,PHOT-150,"Nelson, Mark",ONLIN,0.73,1.0,20,11,2,0,0,12,0,0,45
+Fine Arts,PHOT,PHOT-150,"Schwenkmeyer, Karen",ONLIN,0.75,0.88,3,2,1,0,0,1,0,1,8
+Fine Arts,THEA,THEA-103,"Harrison, Ayla",ONLIN,0.96,1.0,20,2,3,0,1,0,0,0,26
+Health Sciences        & Athletics,AJ,AJ-100,"Causey, Roberto",ONLIN,0.86,0.86,3,2,1,0,0,0,0,1,7
+Health Sciences        & Athletics,AJ,AJ-100,"Mason, Donald",ONLIN,0.87,1.0,12,5,3,0,1,2,0,0,23
+Health Sciences        & Athletics,AJ,AJ-100,"Mauger, Dina",ONLIN,0.73,0.87,6,4,1,0,0,2,0,2,15
+Health Sciences        & Athletics,AJ,AJ-103,"Serrano, Oscar",ONLIN,0.38,0.63,5,5,2,0,0,8,0,12,32
+Health Sciences        & Athletics,AJ,AJ-111,"Mauger, Dina",ONLIN,0.67,0.95,9,3,2,0,0,6,0,1,21
+Health Sciences        & Athletics,AJ,AJ-115,"Fields, Mark",ONLIN,0.5,0.65,9,0,1,0,0,3,0,7,20
+Health Sciences        & Athletics,AJ,AJ-131,"Roberson, Andrea",ONLIN,0.2,1.0,2,0,0,0,0,8,0,0,10
+Health Sciences        & Athletics,AJ,AJ-133,"Juckett, Brian",ONLIN,0.6,1.0,4,1,1,0,0,4,0,0,10
+Health Sciences        & Athletics,AJ,AJ-170,"Roth, Matthew",ONLIN,0.54,1.0,4,1,2,0,0,6,0,0,13
+Health Sciences        & Athletics,CH,CH-1,"Alvillar, Andrew",ONLIN,0.22,1.0,6,1,0,0,0,25,0,0,32
+Health Sciences        & Athletics,CH,CH-1,"Fernley, Nathan",ECC,0.9,0.9,7,1,0,1,0,0,0,1,10
+Health Sciences        & Athletics,CH,CH-1,"Hazell, Thomas",ONLIN,0.56,0.97,15,4,0,0,3,11,0,1,34
+Health Sciences        & Athletics,CH,CH-1,"Lofgren, Dean",ONLIN,0.86,0.9,14,4,0,0,0,1,0,2,21
+Health Sciences        & Athletics,CH,CH-1,"Pattison, Levalley",ONLIN,0.57,0.82,22,6,4,0,1,13,0,10,56
+Health Sciences        & Athletics,FAID,FAID-1,"Calderon, Karla",ECC,1.0,1.0,21,4,1,0,0,0,0,0,26
+Health Sciences        & Athletics,FAID,FAID-1,"Komai, Stacy",HSDUL,0.85,0.92,4,7,0,0,0,1,0,1,13
+Health Sciences        & Athletics,FAID,FAID-1,"Peters, Kurt",ECC,0.88,0.88,26,3,0,0,0,0,0,4,33
+Health Sciences        & Athletics,FTEC,FTEC-1,"Boies, Joshua",ONLIN,0.11,0.55,3,2,0,0,0,19,0,20,44
+Health Sciences        & Athletics,FTEC,FTEC-1,"Carey, Ryan",ONLIN,0.46,0.76,19,1,1,0,3,11,0,11,46
+Health Sciences        & Athletics,FTEC,FTEC-120,"Rodrigues, Alex",ONLIN,0.47,0.5,5,8,1,0,1,0,0,15,30
+Health Sciences        & Athletics,FTEC,FTEC-130,"Huben, Kevin",OFFST,0.96,0.96,6,13,3,0,0,0,0,1,23
+Health Sciences        & Athletics,FTEC,FTEC-131,"Huben, Kevin",OFFST,0.96,0.96,6,16,0,0,0,0,0,1,23
+Health Sciences        & Athletics,FTEC,FTEC-132,"Huben, Kevin",OFFST,0.96,0.96,10,8,4,0,0,0,0,1,23
+Health Sciences        & Athletics,FTEC,FTEC-133,"Huben, Kevin",OFFST,0.91,0.96,1,15,5,0,0,1,0,1,23
+Health Sciences        & Athletics,FTEC,FTEC-134,"Huben, Kevin",OFFST,0.91,0.91,1,8,12,0,0,0,0,2,23
+Health Sciences        & Athletics,FTEC,FTEC-135,"Huben, Kevin",OFFST,0.91,0.91,0,13,8,0,0,0,0,2,23
+Health Sciences        & Athletics,FTEC,FTEC-136,"Huben, Kevin",OFFST,0.91,0.91,0,12,9,0,0,0,0,2,23
+Health Sciences        & Athletics,FTEC,FTEC-137,"Huben, Kevin",OFFST,0.91,0.91,0,12,9,0,0,0,0,2,23
+Health Sciences        & Athletics,FTEC,FTEC-139,"Huben, Kevin",OFFST,0.74,1.0,0,0,0,17,0,0,6,0,23
+Health Sciences        & Athletics,FTEC,FTEC-144,"Carey, Ryan",ECC,0.87,0.93,48,2,9,0,0,4,0,5,68
+Health Sciences        & Athletics,FTEC,FTEC-144,"Garcia, Leonard",ECC,0.88,0.89,29,20,9,0,0,1,0,7,66
+Health Sciences        & Athletics,FTEC,FTEC-144,"Rodrigues, Alex",ECC,0.88,0.89,29,20,9,0,0,1,0,7,66
+Health Sciences        & Athletics,FTEC,FTEC-150,"Millikan, Kevin",OFFST,1.0,1.0,0,0,0,71,0,0,0,0,71
+Health Sciences        & Athletics,FTEC,FTEC-2,"Coffelt, Kevin",ONLIN,0.7,1.0,13,3,0,0,0,7,0,0,23
+Health Sciences        & Athletics,FTEC,FTEC-3,"Hallock, Matthew",ONLIN,0.53,0.98,22,2,0,0,0,20,0,1,45
+Health Sciences        & Athletics,FTEC,FTEC-5,"Suen, Chen",ONLIN,0.77,0.94,12,10,2,0,1,4,0,2,31
+Health Sciences        & Athletics,FTEC,FTEC-6,"McCracken, Mark",ONLIN,0.76,0.97,19,6,1,0,0,7,0,1,34
+Health Sciences        & Athletics,MEDT,MEDT-1,"Green, Michele",ONLIN,0.71,0.84,27,22,4,0,7,3,0,12,75
+Health Sciences        & Athletics,MEDT,MEDT-1,"Jenkins, Ian",ONLIN,0.83,0.88,24,4,5,0,0,2,0,5,40
+Health Sciences        & Athletics,MEDT,MEDT-1,"Wade, Randy",ONLIN,0.89,0.95,86,21,7,0,3,4,0,7,128
+Health Sciences        & Athletics,NURS,NURS-143,"Calib, Farah",ECC,0.96,0.97,33,34,6,0,0,1,0,2,76
+Health Sciences        & Athletics,NURS,NURS-144,"Teed, Vanessa",ECC,0.81,0.85,16,3,3,0,0,1,0,4,27
+Health Sciences        & Athletics,NURS,NURS-144,"White, Maria",ECC,0.91,0.91,28,11,3,0,0,0,0,4,46
+Health Sciences        & Athletics,NURS,NURS-146,"Johnson, Shiny",ECC,1.0,1.0,13,28,2,0,0,0,0,0,43
+Health Sciences        & Athletics,NURS,NURS-220,"Calib, Farah",ECC,1.0,1.0,4,2,0,0,0,0,0,0,6
+Health Sciences        & Athletics,PE,PE-10A,"Arrache, Antonio",ECC,0.92,0.92,23,0,0,0,0,0,0,2,25
+Health Sciences        & Athletics,PE,PE-10A,"Hall, John",ECC,0.88,0.88,15,0,0,0,0,0,0,2,17
+Health Sciences        & Athletics,PE,PE-10A,"Hazell, Thomas",ECC,0.74,0.89,14,0,0,0,0,3,0,2,19
+Health Sciences        & Athletics,PE,PE-10A,"Hazell, Thomas",ONLIN,0.68,0.96,14,2,1,0,0,7,0,1,25
+Health Sciences        & Athletics,PE,PE-10B,"Arrache, Antonio",ECC,1.0,1.0,1,0,0,0,0,0,0,0,1
+Health Sciences        & Athletics,PE,PE-10B,"Hall, John",ECC,1.0,1.0,1,0,0,0,0,0,0,0,1
+Health Sciences        & Athletics,PE,PE-10B,"Hazell, Thomas",ECC,0.86,0.86,6,0,0,0,0,0,0,1,7
+Health Sciences        & Athletics,PE,PE-10B,"Hazell, Thomas",ONLIN,0.75,1.0,3,0,0,0,0,1,0,0,4
+Health Sciences        & Athletics,PE,PE-111ABC,"Hazell, Elizabeth",ECC,1.0,1.0,17,0,0,0,0,0,0,0,17
+Health Sciences        & Athletics,PE,PE-135ABCD,"Alvillar, Andrew",ECC,1.0,1.0,15,0,0,0,0,0,0,0,15
+Health Sciences        & Athletics,PE,PE-135ABCD,"Arrache, Antonio",ECC,1.0,1.0,19,0,0,0,0,0,0,0,19
+Health Sciences        & Athletics,PE,PE-135ABCD,"Hartwill, Janina",ECC,0.75,0.75,6,0,0,0,0,0,0,2,8
+Health Sciences        & Athletics,PE,PE-135ABCD,"Kaub, Timothy",ECC,0.97,1.0,32,0,0,0,0,1,0,0,33
+Health Sciences        & Athletics,PE,PE-135ABCD,"Lindheim, Gifford",ECC,1.0,1.0,43,0,0,0,0,0,0,0,43
+Health Sciences        & Athletics,PE,PE-66ABC,"Boerica, Sergiu",ECC,0.89,0.89,8,0,0,0,0,0,0,1,9
+Health Sciences        & Athletics,PE,PE-7,"Notch, Joseph",ECC,1.0,1.0,12,0,0,0,0,0,0,0,12
+Health Sciences        & Athletics,PE,PE-71ABC,"Jacobson, Michael",ECC,1.0,1.0,25,0,0,0,0,0,0,0,25
+Health Sciences        & Athletics,PE,PE-86ABC,"Haroldson, Shelby",ECC,0.9,0.9,9,0,0,0,0,0,0,1,10
+Health Sciences        & Athletics,PE,PE-86ABC,"Rubke, Noah",ECC,1.0,1.0,13,0,0,0,0,0,0,0,13
+Health Sciences        & Athletics,RC,RC-176,"Mekaru, Roy",ECC,0.82,0.82,2,2,5,0,0,0,0,2,11
+Health Sciences        & Athletics,RC,RC-284,"Mekaru, Roy",ECC,1.0,1.0,1,3,5,0,0,0,0,0,9
+Health Sciences        & Athletics,RC,RC-295,"Mekaru, Roy",ECC,0.75,0.83,1,0,8,0,0,1,0,2,12
+Health Sciences        & Athletics,RTEC,RTEC-109,"Charman, Dawn",ECC,1.0,1.0,22,1,0,0,0,0,0,0,23
+Health Sciences        & Athletics,RTEC,RTEC-109,"Hussain, Naveed",ECC,1.0,1.0,22,1,0,0,0,0,0,0,23
+Health Sciences        & Athletics,RTEC,RTEC-109,"Pascua, Mark",ECC,1.0,1.0,22,1,0,0,0,0,0,0,23
+Health Sciences        & Athletics,RTEC,RTEC-109,"Perez, Michele",ECC,1.0,1.0,22,1,0,0,0,0,0,0,23
+Health Sciences        & Athletics,RTEC,RTEC-109,"Villa, Eric",ECC,1.0,1.0,22,1,0,0,0,0,0,0,23
+Health Sciences        & Athletics,RTEC,RTEC-216,"Butao, Lesley",OFFST,1.0,1.0,15,1,0,1,0,0,0,0,17
+Health Sciences        & Athletics,RTEC,RTEC-216,"Charman, Dawn",OFFST,1.0,1.0,15,1,0,1,0,0,0,0,17
+Health Sciences        & Athletics,RTEC,RTEC-216,"Karacozian, Edward",OFFST,1.0,1.0,15,1,0,1,0,0,0,0,17
+Health Sciences        & Athletics,RTEC,RTEC-216,"Perez, Michele",OFFST,1.0,1.0,15,1,0,1,0,0,0,0,17
+Health Sciences        & Athletics,RTEC,RTEC-216,"Villa, Eric",OFFST,1.0,1.0,15,1,0,1,0,0,0,0,17
+Health Sciences        & Athletics,RTEC,RTEC-220,"Bradshaw, Jeffrey",OFFST,1.0,1.0,15,1,0,1,0,0,0,0,17
+Health Sciences        & Athletics,RTEC,RTEC-220,"Charman, Dawn",OFFST,1.0,1.0,15,1,0,1,0,0,0,0,17
+Health Sciences        & Athletics,RTEC,RTEC-220,"Luna, Rosa",OFFST,1.0,1.0,15,1,0,1,0,0,0,0,17
+Health Sciences        & Athletics,RTEC,RTEC-220,"Pascua, Mark",OFFST,1.0,1.0,15,1,0,1,0,0,0,0,17
+Health Sciences        & Athletics,RTEC,RTEC-220,"Perez, Michele",OFFST,1.0,1.0,15,1,0,1,0,0,0,0,17
+Health Sciences        & Athletics,RTEC,RTEC-220,"Villa, Eric",OFFST,1.0,1.0,15,1,0,1,0,0,0,0,17
+Humanities,ENGL,ENGL-1A,"Annick, Jennifer",ONLIN,0.68,0.68,14,2,1,0,0,0,0,8,25
+Humanities,ENGL,ENGL-1A,"Burnham, Stephanie",ONLIN,0.67,0.86,23,7,4,0,0,10,0,7,51
+Humanities,ENGL,ENGL-1A,"Cerofeci, Rose",ONLIN,0.7,0.96,1,11,4,0,1,5,0,1,23
+Humanities,ENGL,ENGL-1A,"Douglas, Jeffrey",HYBRD,0.83,0.92,8,1,1,0,0,1,0,1,12
+Humanities,ENGL,ENGL-1A,"Herdzina, Susan",ONLIN,0.34,0.79,7,0,3,0,2,11,0,6,29
+Humanities,ENGL,ENGL-1A,"Hong, Lyman",ONLIN,0.57,0.79,8,7,9,0,3,6,0,9,42
+Humanities,ENGL,ENGL-1A,"Krizan, Kim",ECC,0.57,0.71,3,5,0,0,1,1,0,4,14
+Humanities,ENGL,ENGL-1A,"Leiby, Mary",ONLIN,0.41,0.76,1,2,4,0,0,5,1,4,17
+Humanities,ENGL,ENGL-1A,"Magnesi, Miles",ONLIN,0.21,0.37,1,0,3,0,1,2,0,12,19
+Humanities,ENGL,ENGL-1A,"Marcoux, Peter",ONLIN,0.55,0.67,13,7,8,0,2,4,0,17,51
+Humanities,ENGL,ENGL-1A,"Panto, Danielle",ONLIN,0.38,0.67,2,2,4,0,4,2,0,7,21
+Humanities,ENGL,ENGL-1A,"Peluso, Stephen",ONLIN,0.55,0.85,9,1,1,0,0,6,0,3,20
+Humanities,ENGL,ENGL-1A,"Phear, Jamie",HSDUL,0.95,0.97,26,24,6,0,0,1,0,2,59
+Humanities,ENGL,ENGL-1A,"Phillips, Lana",ONLIN,0.65,0.81,6,7,4,0,0,4,0,5,26
+Humanities,ENGL,ENGL-1A,"Sharp, Adrienne",ONLIN,0.88,0.96,13,5,5,0,2,0,0,1,26
+Humanities,ENGL,ENGL-1A,"Shaw, Jocelyn",HYBRD,0.67,0.89,3,2,1,0,1,1,0,1,9
+Humanities,ENGL,ENGL-1A,"Sullivan, Kamisha",HSDUL,0.93,0.96,9,7,9,0,0,1,0,1,27
+Humanities,ENGL,ENGL-1A,"Walker, Elizabeth",ECC,0.84,0.89,10,5,1,0,1,0,0,2,19
+Humanities,ENGL,ENGL-1AH,"Williams, Rachel",HYBRD,0.81,0.88,7,5,1,0,0,1,0,2,16
+Humanities,ENGL,ENGL-1B,"Gallagher, Jennifer",ONLIN,0.93,0.97,25,3,0,0,0,1,0,1,30
+Humanities,ENGL,ENGL-1B,"Sandowicz, Ryan",ONLIN,0.42,0.72,3,10,5,0,0,13,0,12,43
+Humanities,ENGL,ENGL-1C,"Ali, Jawad",ONLIN,0.7,0.89,9,5,5,0,1,4,0,3,27
+Humanities,ENGL,ENGL-1C,"Arehart, Robin",HYBRD,0.71,0.93,5,3,2,0,2,1,0,1,14
+Humanities,ENGL,ENGL-1C,"Crotwell, Dana",ONLIN,0.72,0.77,12,8,11,0,1,1,0,10,43
+Humanities,ENGL,ENGL-1C,"Harmon, Alika",ONLIN,0.9,0.93,24,1,2,0,1,0,0,2,30
+Humanities,ENGL,ENGL-1C,"Ochoa, Shane",ONLIN,0.4,0.71,10,8,4,0,5,12,0,16,55
+Humanities,ENGL,ENGL-1C,"Page, Christopher",ONLIN,0.82,0.93,34,11,0,0,2,4,0,4,55
+Humanities,ENGL,ENGL-1C,"Ritchie, Ryan",ONLIN,0.79,0.83,11,4,4,0,0,1,0,4,24
+Humanities,ESL,ESL-52B,"Loya, Rebecca",ONLIN,0.83,0.89,12,1,2,0,1,0,0,2,18
+Humanities,FREN,FREN-1,"Class, Alicia",ONLIN,0.55,0.67,10,7,1,0,2,2,0,11,33
+Humanities,HUMA,HUMA-1,"Lewitzki, Rhea",ONLIN,0.61,0.9,14,7,10,0,1,14,0,5,51
+Humanities,HUMA,HUMA-1,"Thompson, Darrell",ONLIN,0.48,0.7,3,5,3,0,1,4,0,7,23
+Humanities,ITAL,ITAL-1,"Pescatori, Rossella",ONLIN,0.76,0.81,20,5,3,0,0,2,0,7,37
+Humanities,JAPA,JAPA-1,"Lopez, Mari",ONLIN,0.92,0.94,25,7,1,0,0,0,1,2,36
+Humanities,NESL,NESL-02A,"Olivas, Gabriel",HYBRD,0.53,0.6,0,0,0,16,0,0,2,12,30
+Humanities,NESL,NESL-02B,"Olivas, Gabriel",HYBRD,0.68,0.76,0,0,0,17,0,0,2,6,25
+Humanities,NESL,NESL-02C,"Geraghty, Elise",HYBRD,0.92,0.92,0,0,0,23,0,0,0,2,25
+Humanities,NESL,NESL-03A,"Atoofi, Saeid",HYBRD,0.6,1.0,9,0,0,0,0,6,0,0,15
+Humanities,NESL,NESL-03B,"Atoofi, Saeid",HYBRD,0.84,1.0,16,0,0,0,0,3,0,0,19
+Humanities,NESL,NESL-03C,"Rouhi, Samaneh",HYBRD,0.59,0.88,7,2,1,0,0,5,0,2,17
+Humanities,NESL,NESL-52B,"Loya, Rebecca",ONLIN,0.75,1.0,2,0,1,0,0,1,0,0,4
+Humanities,SLAN,SLAN-111,"Gough, Timothy",ONLIN,0.71,0.9,10,4,1,0,2,2,0,2,21
+Humanities,SLAN,SLAN-111,"Khorsandi, Shmuel",ECC,0.77,0.92,7,1,2,0,2,0,0,1,13
+Humanities,SLAN,SLAN-112,"Gough, Timothy",ONLIN,0.74,0.87,12,4,1,0,0,3,0,3,23
+Humanities,SLAN,SLAN-130,"Gough, Timothy",ONLIN,0.47,0.87,5,2,0,0,0,6,0,2,15
+Humanities,SLAN,SLAN-131,"Gough, Timothy",ONLIN,0.33,0.9,7,3,0,0,1,16,0,3,30
+Humanities,SPAN,SPAN-1,"Andrade, Argelia",OFFST,1.0,1.0,4,1,0,0,0,0,0,0,5
+Humanities,SPAN,SPAN-1,"Barrio de Mendoza, Maria",ONLIN,0.92,0.98,27,14,7,0,2,1,0,1,52
+Humanities,SPAN,SPAN-1,"Moina, Andres",ONLIN,0.58,0.84,11,9,13,0,5,10,0,9,57
+Humanities,SPAN,SPAN-1,"Quezada, Veronica",ECC,0.79,0.92,12,4,3,0,1,2,0,2,24
+Humanities,SPAN,SPAN-1,"Quezada, Veronica",ONLIN,0.72,0.84,7,8,3,0,0,3,0,4,25
+Humanities,SPAN,SPAN-2,"Prada, Claudia",ONLIN,0.93,0.94,56,11,0,0,0,1,0,4,72
+Humanities,SPAN,SPAN-3,"Villanueva, Cynthia",HSDUL,1.0,1.0,32,2,0,0,0,0,0,0,34
+Humanities,SPAN,SPAN-3,"Villanueva, Cynthia",ONLIN,0.94,0.97,29,2,0,0,1,0,0,1,33
+Humanities,SPAN,SPAN-52A,"Andrade, Argelia",OFFST,1.0,1.0,6,0,1,0,0,0,0,0,7
+Industry       & Technology,ACR,ACR-30,"Shute, Stephen",ECC,0.92,1.0,19,2,2,0,1,1,0,0,25
+Industry       & Technology,ACR,ACR-31,"Der-Antonian, Henry",ONLIN,0.62,1.0,5,10,1,0,0,10,0,0,26
+Industry       & Technology,ACRP,ACRP-3A,"Fairchild, Patricia",HYBRD,0.73,1.0,4,3,1,0,3,0,0,0,11
+Industry       & Technology,ACRP,ACRP-6,"Alcaraz Munoz, Saul",ECC,0.94,1.0,15,0,1,0,0,1,0,0,17
+Industry       & Technology,ARCH,ARCH-100,"Greas, Mina",ONLIN,0.43,0.69,11,3,1,0,0,9,0,11,35
+Industry       & Technology,ARCH,ARCH-108,"Song, Richard",LIVEO,0.77,0.92,7,10,3,0,0,0,4,2,26
+Industry       & Technology,ARCH,ARCH-119,"Jacobs, Reuben",ECC,0.84,0.95,12,3,1,0,0,1,1,1,19
+Industry       & Technology,ARCH,ARCH-199,"Echerri, Olga",ECC,0.88,0.94,4,5,5,0,1,0,0,1,16
+Industry       & Technology,ARCH,ARCH-199,"Yeber, Marc",ECC,0.88,0.94,4,5,5,0,1,0,0,1,16
+Industry       & Technology,ATEC,ATEC-1,"Duque, Jeremy",HSDUL,0.8,1.0,6,1,1,0,0,2,0,0,10
+Industry       & Technology,ATEC,ATEC-1,"Jackson, Robert",ECC,0.64,0.95,13,1,0,0,0,7,0,1,22
+Industry       & Technology,ATEC,ATEC-1,"Matykiewicz, Edward",HSDUL,0.88,1.0,3,7,4,0,2,0,0,0,16
+Industry       & Technology,ATEC,ATEC-27,"Anderson, Michael",ECC,0.8,0.8,5,3,0,0,0,0,0,2,10
+Industry       & Technology,ATEC,ATEC-81,"Anderson, Michael",ECC,0.7,0.9,6,1,0,0,0,2,0,1,10
+Industry       & Technology,COSM,COSM-16,"Nishihira, Linda",ECC,1.0,1.0,12,3,1,0,0,0,0,0,16
+Industry       & Technology,COSM,COSM-16,"Tran, Bruce",ECC,1.0,1.0,12,3,1,0,0,0,0,0,16
+Industry       & Technology,COSM,COSM-3,"Brewer Smith, Charlene",HYBRD,0.73,1.0,2,3,3,0,0,3,0,0,11
+Industry       & Technology,COSM,COSM-3,"Cooper, Michelle",HYBRD,0.73,1.0,2,3,3,0,0,3,0,0,11
+Industry       & Technology,CTEC,CTEC-100,"Ortiz, Oscar",ECC,0.92,1.0,4,1,7,0,1,0,0,0,13
+Industry       & Technology,CTEC,CTEC-141,"Pena, Maximino",ECC,0.94,1.0,7,7,3,0,1,0,0,0,18
+Industry       & Technology,CTEC,CTEC-160,"Durand, Joy",ONLIN,0.62,0.69,0,6,2,0,0,1,0,4,13
+Industry       & Technology,CTEC,CTEC-172,"Durand, Ross",ECC,1.0,1.0,9,4,2,0,0,0,0,0,15
+Industry       & Technology,CTEC,CTEC-220,"Selph, Jack",ECC,0.96,0.96,22,0,0,0,0,0,0,1,23
+Industry       & Technology,ECHT,ECHT-144,"Akhigbe, Paul",ECC,0.9,0.9,9,0,0,0,0,0,0,1,10
+Industry       & Technology,ECHT,ECHT-95,"Runas, Arnulfo",ECC,1.0,1.0,9,0,0,0,0,0,0,0,9
+Industry       & Technology,FASH,FASH-1,"Ashley, Vera",ONLIN,0.32,0.92,6,1,1,0,0,15,0,2,25
+Industry       & Technology,FASH,FASH-10,"Osuna, Corrie",ECC,0.71,0.86,3,0,2,0,0,1,0,1,7
+Industry       & Technology,FASH,FASH-10,"Ratcliff, Priscilla",ECC,1.0,1.0,11,2,2,0,0,0,0,0,15
+Industry       & Technology,MTEC,MTEC-70,"Hirunthanakorn, Christopher",ECC,1.0,1.0,3,2,0,0,0,0,0,0,5
+Industry       & Technology,MTT,MTT-101,"VanOverbeck, Michael",ECC,0.93,0.93,11,2,0,1,0,0,0,1,15
+Industry       & Technology,MTT,MTT-95,"VanOverbeck, Michael",ECC,1.0,1.0,5,0,0,0,0,0,0,0,5
+Industry       & Technology,NUTR,NUTR-110,"Dekofsky, Brooke",ONLIN,0.91,0.96,40,8,1,0,0,3,0,2,54
+Industry       & Technology,NUTR,NUTR-110,"Gray, Jill",ONLIN,0.84,0.94,17,19,5,0,5,0,0,3,49
+Industry       & Technology,WELD,WELD-10A,"Grcevic, Sydney",ECC,0.86,1.0,15,4,0,0,0,2,1,0,22
+Industry       & Technology,WELD,WELD-10C,"Meek, Dylan",ECC,0.96,1.0,12,7,4,0,1,0,0,0,24
+Industry       & Technology,WELD,WELD-28,"Meek, Dylan",ECC,0.97,1.0,18,11,9,0,0,1,0,0,39
+Industry       & Technology,WELD,WELD-99,"Meek, Dylan",ECC,1.0,1.0,4,0,0,0,0,0,0,0,4
+"Library          &
+Learning Resources",NPAS,NPAS-115,"Wolfenstein, Moses",ONLIN,0.25,1.0,0,0,0,2,0,0,6,0,8
+Mathematical Sciences,CSCI,CSCI-1,"Diaz Valdovinos, Rafael",ONLIN,0.88,0.92,15,6,0,0,1,0,0,2,24
+Mathematical Sciences,CSCI,CSCI-1,"Peiravi, Mehdi",ONLIN,0.95,1.0,18,1,1,0,0,1,0,0,21
+Mathematical Sciences,CSCI,CSCI-1,"Russell, Solomon",ECC,0.58,0.75,16,3,4,0,3,3,1,10,40
+Mathematical Sciences,CSCI,CSCI-3,"Ambrosio, Edwin",ONLIN,0.57,0.6,12,1,4,0,0,1,0,12,30
+Mathematical Sciences,CSCI,CSCI-7,"Wood, Julie",ONLIN,0.89,0.89,28,2,2,0,0,0,0,4,36
+Mathematical Sciences,ENGR,ENGR-1,"Nagpal, Pavan",LIVEO,0.6,0.93,10,5,3,0,0,7,3,2,30
+Mathematical Sciences,ENGR,ENGR-1,"Nagpal, Pavan",ONLIN,0.82,0.94,24,3,0,0,0,4,0,2,33
+Mathematical Sciences,MATH,MATH-120,"Bateman, Michael",ONLIN,0.43,0.61,3,4,3,0,1,3,0,9,23
+Mathematical Sciences,MATH,MATH-120,"Forbes, Junko",ONLIN,0.48,0.56,6,5,1,0,0,2,0,11,25
+Mathematical Sciences,MATH,MATH-120,"Huang, Carrie",ECC,0.88,0.88,3,4,0,0,0,0,0,1,8
+Mathematical Sciences,MATH,MATH-130,"Gizaw, Astatke",ECC,0.45,0.55,2,2,1,0,1,0,0,5,11
+Mathematical Sciences,MATH,MATH-130,"Granich, Megan",ONLIN,0.29,0.49,6,1,7,0,2,8,0,25,49
+Mathematical Sciences,MATH,MATH-150,"Acuna-Acosta, Susana",ONLIN,0.73,0.83,5,5,12,0,1,2,0,5,30
+Mathematical Sciences,MATH,MATH-150,"Eldanaf, Diaa",ECC,0.56,0.74,10,4,1,0,2,3,0,7,27
+Mathematical Sciences,MATH,MATH-150,"Forbes, Junko",ONLIN,0.53,0.74,10,5,3,0,0,5,2,9,34
+Mathematical Sciences,MATH,MATH-150,"Gui, Le",ONLIN,0.5,0.86,5,8,1,0,4,5,1,4,28
+Mathematical Sciences,MATH,MATH-150,"Martinez, Alice",ONLIN,0.82,0.88,32,5,3,0,0,3,0,6,49
+Mathematical Sciences,MATH,MATH-150,"Martinez, Arturo",ECC,0.37,0.79,3,3,1,0,2,6,0,4,19
+Mathematical Sciences,MATH,MATH-150,"Mitchell, Benjamin",ONLIN,0.81,0.89,24,14,14,0,1,4,0,7,64
+Mathematical Sciences,MATH,MATH-150,"Morales, Eduardo",ONLIN,0.7,0.86,13,11,15,0,3,6,0,8,56
+Mathematical Sciences,MATH,MATH-150,"Moreno, Kaysa",ONLIN,0.47,0.56,6,3,6,0,1,2,0,14,32
+Mathematical Sciences,MATH,MATH-150,"Ndoumna, Emmanuel",ECC,0.67,0.78,4,3,5,0,1,1,0,4,18
+Mathematical Sciences,MATH,MATH-150,"Numrich, Kristine",ONLIN,0.82,0.86,12,6,5,0,0,1,0,4,28
+Mathematical Sciences,MATH,MATH-150,"Schult Roman, Catherine",ONLIN,0.84,0.94,17,6,4,0,0,3,0,2,32
+Mathematical Sciences,MATH,MATH-165,"Gui, Le",ONLIN,0.73,0.88,8,10,6,0,3,2,0,4,33
+Mathematical Sciences,MATH,MATH-165,"Mata, Matthew",ECC,0.55,0.7,4,2,5,0,0,3,0,6,20
+Mathematical Sciences,MATH,MATH-170,"Eleuteri, Robert",ECC,0.26,0.7,2,6,3,0,3,16,0,13,43
+Mathematical Sciences,MATH,MATH-170,"Martinez, Ronald",ONLIN,0.9,0.97,12,11,5,0,0,2,0,1,31
+Mathematical Sciences,MATH,MATH-170,"Moreno, Kaysa",ONLIN,0.48,0.72,9,2,3,0,3,4,0,8,29
+Mathematical Sciences,MATH,MATH-170,"Nguyen, Hoang",ECC,0.84,0.94,8,14,5,0,1,2,0,2,32
+Mathematical Sciences,MATH,MATH-170,"Numrich, Kristine",ONLIN,0.32,0.56,3,4,1,0,0,6,0,11,25
+Mathematical Sciences,MATH,MATH-180,"Bateman, Michael",ECC,0.44,0.69,2,3,2,0,2,2,0,5,16
+Mathematical Sciences,MATH,MATH-180,"Martinez, Ronald",ONLIN,0.9,0.97,9,13,6,0,1,1,0,1,31
+Mathematical Sciences,MATH,MATH-180,"Sandoval, Gerardo",ECC,0.7,0.87,1,8,12,0,0,5,0,4,30
+Mathematical Sciences,MATH,MATH-180,"Song, Guoqiang",ONLIN,0.62,0.76,10,4,7,0,1,4,0,8,34
+Mathematical Sciences,MATH,MATH-190,"Barajas, Eduardo",ONLIN,0.42,0.68,1,6,1,0,3,2,0,6,19
+Mathematical Sciences,MATH,MATH-190,"Hamza, Hamza",ONLIN,0.74,0.87,9,11,19,0,1,6,0,7,53
+Mathematical Sciences,MATH,MATH-190,"Martinez, Jose",ECC,0.74,0.92,29,13,6,0,4,8,0,5,65
+Mathematical Sciences,MATH,MATH-190,"Mata, Matthew",ONLIN,0.24,0.32,4,1,1,0,0,2,0,17,25
+Mathematical Sciences,MATH,MATH-190,"Ng, Jasmine",ECC,0.19,0.69,5,0,0,0,3,10,0,8,26
+Mathematical Sciences,MATH,MATH-191,"Barajas, Eduardo",ONLIN,0.37,0.59,2,3,5,0,0,6,0,11,27
+Mathematical Sciences,MATH,MATH-191,"Eldanaf, Diaa",ONLIN,0.46,0.63,5,8,6,0,1,6,0,15,41
+Mathematical Sciences,MATH,MATH-191,"Ng, Jasmine",ONLIN,0.73,0.97,6,7,9,0,4,3,0,1,30
+Mathematical Sciences,MATH,MATH-191,"Ornelas, Miguel",ECC,0.83,0.91,15,7,7,0,3,0,0,3,35
+Mathematical Sciences,MATH,MATH-220,"Eleuteri, Robert",ONLIN,0.69,0.88,6,6,10,0,4,2,0,4,32
+Mathematical Sciences,MATH,MATH-220,"Fry, Gregory",ONLIN,0.55,0.68,10,10,13,0,2,6,0,19,60
+Mathematical Sciences,MATH,MATH-220,"Yun, Paul",ECC,0.74,0.97,12,7,4,0,7,0,0,1,31
+Mathematical Sciences,MATH,MATH-270,"Minasian, Ashod",ONLIN,1.0,1.0,31,29,6,0,0,0,0,0,66
+Natural Sciences,ANAT,ANAT-30,"Mubarak, Merium",ONLIN,0.6,0.73,2,1,6,0,0,2,0,4,15
+Natural Sciences,ANAT,ANAT-30,"Nagaya, Marie",ONLIN,0.92,0.95,21,9,6,0,0,1,0,2,39
+Natural Sciences,ANAT,ANAT-30,"Oswald, Sanda",ONLIN,0.94,0.94,22,4,4,0,0,0,0,2,32
+Natural Sciences,ANAT,ANAT-32,"Abbani, Cheryl",HYBRD,0.91,0.91,13,10,7,0,0,0,0,3,33
+Natural Sciences,ANAT,ANAT-32,"Ahad, Sally",HYBRD,0.5,0.65,2,5,6,0,1,3,0,9,26
+Natural Sciences,ANAT,ANAT-32,"Bui, Thanh-Thuy",ECC,0.55,0.6,2,6,3,0,0,1,0,8,20
+Natural Sciences,APHY,APHY-34A,"Le, Octavian",HYBRD,0.83,0.94,6,6,3,0,2,0,0,1,18
+Natural Sciences,ASTR,ASTR-20,"Said, Asma",ONLIN,0.81,1.0,7,7,7,0,0,5,0,0,26
+Natural Sciences,ASTR,ASTR-25,"Vanden Heuvel, Andrew",ONLIN,0.91,0.96,36,6,0,0,0,2,0,2,46
+Natural Sciences,BIOL,BIOL-10,"Lee, Samuel",ECC,0.89,0.89,1,2,5,0,0,0,0,1,9
+Natural Sciences,BIOL,BIOL-10,"McClelland, Darcie",ONLIN,0.89,0.89,22,9,3,0,0,0,0,4,38
+Natural Sciences,BIOL,BIOL-10,"Parks, Polly",ONLIN,0.95,0.95,16,16,4,0,0,0,0,2,38
+Natural Sciences,BIOL,BIOL-10,"Pasala, Sumana",ONLIN,0.56,0.74,7,6,2,0,0,5,0,7,27
+Natural Sciences,BIOL,BIOL-10,"Reonisto, Timothy Aaron",HYBRD,0.96,1.0,10,14,3,0,1,0,0,0,28
+Natural Sciences,BIOL,BIOL-10,"Sharar, Erica",ONLIN,0.9,0.93,18,6,2,0,1,0,0,2,29
+Natural Sciences,BIOL,BIOL-10,"Villatoro, Karla",ONLIN,0.67,0.78,8,8,2,0,0,3,0,6,27
+Natural Sciences,BIOL,BIOL-10H,"MacDonald, Brandon",ONLIN,0.93,0.96,15,9,1,0,0,1,0,1,27
+Natural Sciences,CHEM,CHEM-1A,"Altermatt, Robert",ECC,0.94,0.97,6,18,6,1,0,1,0,1,33
+Natural Sciences,CHEM,CHEM-1A,"Han, Steven",ECC,0.72,1.0,1,4,8,0,5,0,0,0,18
+Natural Sciences,CHEM,CHEM-1B,"Alexander, John",ECC,0.77,1.0,10,11,3,0,3,4,0,0,31
+Natural Sciences,CHEM,CHEM-20,"Jimenez, Miguel",HYBRD,0.56,0.78,3,4,3,0,0,4,0,4,18
+Natural Sciences,CHEM,CHEM-20,"Sachdev, Vineeta",ECC,0.64,0.71,7,4,7,0,1,1,0,8,28
+Natural Sciences,CHEM,CHEM-20,"Tontcheva, Ana",HYBRD,0.65,0.81,4,8,5,0,1,3,0,5,26
+Natural Sciences,CHEM,CHEM-20,"Wang, Chencai",HYBRD,0.93,0.93,7,5,13,0,0,0,0,2,27
+Natural Sciences,CHEM,CHEM-4,"Abbani, Mohamad",HYBRD,0.33,0.56,3,1,2,0,3,1,0,8,18
+Natural Sciences,CHEM,CHEM-4,"Ebrahimi, Hossein Pasha",HYBRD,0.85,0.93,11,8,4,0,1,1,0,2,27
+Natural Sciences,CHEM,CHEM-4,"Latifzadeh, Lida",HYBRD,0.88,0.96,7,12,4,0,0,2,0,1,26
+Natural Sciences,CHEM,CHEM-4,"Saldarriaga, Laura",ECC,0.7,1.0,7,6,1,0,4,2,0,0,20
+Natural Sciences,CHEM,CHEM-4H,"Arasasingham, Premilla",HYBRD,0.56,0.78,2,2,1,0,0,2,0,2,9
+Natural Sciences,GEOG,GEOG-1,"Donegan, Rebecca",ONLIN,0.42,0.54,0,6,5,0,3,0,0,12,26
+Natural Sciences,GEOG,GEOG-1,"Gard, Julienne",ONLIN,0.77,0.9,4,13,13,0,1,4,0,4,39
+Natural Sciences,GEOG,GEOG-5,"Scott, Jason",ONLIN,0.85,0.9,19,8,6,0,2,0,0,4,39
+Natural Sciences,GEOL,GEOL-1,"Di Fiori, Sara",ONLIN,0.91,0.91,17,10,2,0,0,0,0,3,32
+Natural Sciences,MICR,MICR-33,"Hernandez, Rebecca",HYBRD,0.85,0.91,12,9,8,0,0,2,0,3,34
+Natural Sciences,OCEA,OCEA-10,"Sedki, Ziad",ONLIN,0.85,0.92,13,7,2,0,1,1,0,2,26
+Natural Sciences,OCEA,OCEA-10,"Wageman, Jwan",ONLIN,0.88,0.91,14,12,2,0,0,1,0,3,32
+Natural Sciences,PHYO,PHYO-31,"Brennan, Michael",ECC,1.0,1.0,22,17,1,0,0,0,0,0,40
+Natural Sciences,PHYS,PHYS-1A,"Vargas, Alejandro",ECC,0.87,0.93,7,12,7,0,2,0,0,2,30
+Natural Sciences,PHYS,PHYS-1B,"Demir, Firuz",ECC,0.94,0.94,18,13,3,0,0,0,0,2,36
+Natural Sciences,PHYS,PHYS-2A,"Goldmann, Eyal",ECC,0.81,0.94,15,4,10,0,2,3,0,2,36
+Natural Sciences,PHYS,PHYS-2A,"Shirvanian, Razmic",ECC,0.66,0.75,13,5,3,0,0,3,0,8,32

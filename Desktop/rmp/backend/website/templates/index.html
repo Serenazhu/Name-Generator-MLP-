@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block title %}Search{% endblock %}
+{% block body_class %}no-scroll{% endblock %}
+
+{% block content %}
+
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+  <div class="min-vh-100 d-flex align-items-center justify-content-center">
+    <div class="w-100" style="max-width: 800px; transform: translateY(-25px);">
+      <div class="card shadow-lg border-0 rounded-4">
+        <div class="card-body p-4 p-md-5">
+
+          <h1 class="display-6 fw-semibold mb-2 text-center">Course Outcome Stats for Every Prof.</h1>
+          <p class="text-muted text-center mb-4"></p>
+
+          <form method="get" action="/professor" class="d-flex gap-2">
+            <input
+              class="form-control form-control-lg shadow-sm"
+              name="name"
+              list="prof-list"
+              placeholder="Start typing a name..."
+              autocomplete="off"
+              required
+            >
+            <datalist id="prof-list">
+              {% for n in names %}
+                <option value="{{ n }}"></option>
+              {% endfor %}
+            </datalist>
+
+            <button type="submit" class="btn btn-primary btn-lg px-4">Go</button>
+          </form>
+          {% if not_found %}
+          <p class="small text-danger text-center mt-2 mb-0">
+            "{{ not_found }}" not found. Please choose a name from the dropdown.
+          </p>
+        {% endif %}
+
+          <p class="text-muted small text-center mt-4 mb-0">
+            Data shown is aggregated from <a href="https://www.elcamino.edu/about/institutional-research/reports-and-briefs.php" class="text-muted" target="_blank" rel="noopener noreferrer">source</a>
+            and for informational purposes.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
+
+
+
